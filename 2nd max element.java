@@ -20,5 +20,5 @@ class Main {
         } else {
             System.out.println(arr[arr.length - 2]);
         }
-    }
+    } 
 }
